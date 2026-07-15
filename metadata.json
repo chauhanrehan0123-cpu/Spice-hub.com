@@ -1,0 +1,6 @@
+{
+  "name": "Spice Hub Restro Café",
+  "description": "An ultra-premium, cinematic, and award-winning immersive digital lounge for Spice Hub Restro Café, celebrating the art of luxury brewing and good vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
